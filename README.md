@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
-<h3 align="center">A passionate software Engineer from Pakistan</h3>
+<h3 align="center">A passionate software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
